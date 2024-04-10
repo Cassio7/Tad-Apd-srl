@@ -17,3 +17,4 @@ monitoraggio della rete al fine di garantire una maggiore sicurezza;
 
 ## Schematizzazione e caratteristiche
 La seguente schematizzazione e le seguenti caratteristiche sono state richieste dal professore nella consegna di progetto.
+![alt text](https://github.com/Cassio7/Tad-Apd-srl/blob/main/consegna.jpg?raw=true)
