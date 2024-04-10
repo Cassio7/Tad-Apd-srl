@@ -1,5 +1,10 @@
 # Tad-Apd-srl
 Progetto Reti di calcolatori: Protocolli, nel corso di Laurea Triennale in Informatica UNIPG, 2023.
+
+## Schematizzazione e caratteristiche
+La seguente schematizzazione e le seguenti caratteristiche sono state richieste dal professore nella consegna di progetto.
+![alt text](https://github.com/Cassio7/Tad-Apd-srl/blob/main/consegna.jpg?raw=true)
+
 ## Obiettivi
 Progetto di esame volto a:
 - Realizzare lo schema fisico della rete, evidenziando la topologia ed indicando i dispositivi 
@@ -15,6 +20,3 @@ configurazioni.
 monitoraggio della rete al fine di garantire una maggiore sicurezza;
 - Proteggere in maniera particolare il Server di BACKUP.
 
-## Schematizzazione e caratteristiche
-La seguente schematizzazione e le seguenti caratteristiche sono state richieste dal professore nella consegna di progetto.
-![alt text](https://github.com/Cassio7/Tad-Apd-srl/blob/main/consegna.jpg?raw=true)
